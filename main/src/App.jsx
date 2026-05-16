@@ -7,7 +7,7 @@ import Features from './components/Features';
 import Footer from './components/Footer';
 import Activity1 from './pages/activity1/Activity1';
 import Activity2 from './pages/activity2/Activity2';
-import Activity3 from './pages/activity3/activity3';
+import Activity3 from './pages/activity3/Activity3';
 import './App.css';
 
 function AppContent() {
